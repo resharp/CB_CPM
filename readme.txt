@@ -1,5 +1,5 @@
            || CPM COMPUTATIONAL BIOLOGY 2017-2018 ||
-This CPM program was made for students of Computational Biolgy 2017-2018
+This CPM program was made for students of Computational Biology 2017-2018
 
 To run, cd into the directory of the program, and: 
 >   make                        (only when you made changes to the code)
@@ -11,8 +11,8 @@ Pictures of the simulation are stored in the directory "images". The
 most recent image is displayed, but after you finished the simulation,
 you can browse through all the images.
 
-If the simulation is finished OR if you interupt the simulation, you
-will be prompted to display plots showing statistics of both celltype
+If the simulation is finished OR if you interrupt the simulation, you
+will be prompted to display plots showing statistics of both cell type
 populations. 
 
 Press 'q' with the window in focus to quit to program
